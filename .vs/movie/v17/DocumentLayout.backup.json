@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\movie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\data\\staffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:data\\staffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|D:\\movie\\data\\moviedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:data\\moviedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|D:\\movie\\data\\maintenancesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:data\\maintenancesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\data\\buyticketsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:data\\buyticketsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|D:\\movie\\view\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\regform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|D:\\movie\\view\\receip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\receip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|D:\\movie\\view\\receip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\receip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|D:\\movie\\view\\movieadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\movieadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|D:\\movie\\view\\movieadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\movieadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\maintenancestaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\maintenancestaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\maintenancestaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\maintenancestaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|D:\\movie\\view\\maintenancestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\maintenancestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|D:\\movie\\view\\maintenancestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\maintenancestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\maintenanceadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\maintenanceadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\maintenanceadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\maintenanceadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|D:\\movie\\view\\buyticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\buyticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|D:\\movie\\view\\buyticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\buyticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\view\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:view\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|d:\\movie\\data\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C6743-AA5A-4EE6-BD7E-37EE8B62B00A}|movie.csproj|solutionrelative:data\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "staffdata.cs",
+              "DocumentMoniker": "D:\\movie\\data\\staffdata.cs",
+              "RelativeDocumentMoniker": "data\\staffdata.cs",
+              "ToolTip": "D:\\movie\\data\\staffdata.cs",
+              "RelativeToolTip": "data\\staffdata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:46:06.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "buyticketsdata.cs",
+              "DocumentMoniker": "D:\\movie\\data\\buyticketsdata.cs",
+              "RelativeDocumentMoniker": "data\\buyticketsdata.cs",
+              "ToolTip": "D:\\movie\\data\\buyticketsdata.cs",
+              "RelativeToolTip": "data\\buyticketsdata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:45:47.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "staffmainform.cs",
+              "DocumentMoniker": "D:\\movie\\view\\staffmainform.cs",
+              "RelativeDocumentMoniker": "view\\staffmainform.cs",
+              "ToolTip": "D:\\movie\\view\\staffmainform.cs",
+              "RelativeToolTip": "view\\staffmainform.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:45:44.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "regform.cs",
+              "DocumentMoniker": "D:\\movie\\view\\regform.cs",
+              "RelativeDocumentMoniker": "view\\regform.cs",
+              "ToolTip": "D:\\movie\\view\\regform.cs*",
+              "RelativeToolTip": "view\\regform.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:45:38.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "regform.cs [Design]",
+              "DocumentMoniker": "D:\\movie\\view\\regform.cs",
+              "RelativeDocumentMoniker": "view\\regform.cs",
+              "ToolTip": "D:\\movie\\view\\regform.cs [Design]*",
+              "RelativeToolTip": "view\\regform.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:45:37.066Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "movieadd.cs",
+              "DocumentMoniker": "D:\\movie\\view\\movieadd.cs",
+              "RelativeDocumentMoniker": "view\\movieadd.cs",
+              "ToolTip": "D:\\movie\\view\\movieadd.cs",
+              "RelativeToolTip": "view\\movieadd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:34:55.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "movieadd.cs [Design]",
+              "DocumentMoniker": "D:\\movie\\view\\movieadd.cs",
+              "RelativeDocumentMoniker": "view\\movieadd.cs",
+              "ToolTip": "D:\\movie\\view\\movieadd.cs [Design]",
+              "RelativeToolTip": "view\\movieadd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:34:53.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "staffmainform.cs [Design]",
+              "DocumentMoniker": "D:\\movie\\view\\staffmainform.cs",
+              "RelativeDocumentMoniker": "view\\staffmainform.cs",
+              "ToolTip": "D:\\movie\\view\\staffmainform.cs [Design]",
+              "RelativeToolTip": "view\\staffmainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:28:39.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "moviedata.cs",
+              "DocumentMoniker": "D:\\movie\\data\\moviedata.cs",
+              "RelativeDocumentMoniker": "data\\moviedata.cs",
+              "ToolTip": "D:\\movie\\data\\moviedata.cs",
+              "RelativeToolTip": "data\\moviedata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:24:09.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "maintenancesdata.cs",
+              "DocumentMoniker": "D:\\movie\\data\\maintenancesdata.cs",
+              "RelativeDocumentMoniker": "data\\maintenancesdata.cs",
+              "ToolTip": "D:\\movie\\data\\maintenancesdata.cs",
+              "RelativeToolTip": "data\\maintenancesdata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:24:06.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "maintenancestaffform.cs",
+              "DocumentMoniker": "D:\\movie\\view\\maintenancestaffform.cs",
+              "RelativeDocumentMoniker": "view\\maintenancestaffform.cs",
+              "ToolTip": "D:\\movie\\view\\maintenancestaffform.cs",
+              "RelativeToolTip": "view\\maintenancestaffform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:45:14.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "maintenancestaffform.cs [Design]",
+              "DocumentMoniker": "D:\\movie\\view\\maintenancestaffform.cs",
+              "RelativeDocumentMoniker": "view\\maintenancestaffform.cs",
+              "ToolTip": "D:\\movie\\view\\maintenancestaffform.cs [Design]",
+              "RelativeToolTip": "view\\maintenancestaffform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:45:13.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "maintenanceadmin.cs",
+              "DocumentMoniker": "D:\\movie\\view\\maintenanceadmin.cs",
+              "RelativeDocumentMoniker": "view\\maintenanceadmin.cs",
+              "ToolTip": "D:\\movie\\view\\maintenanceadmin.cs",
+              "RelativeToolTip": "view\\maintenanceadmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:44:56.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "receip.cs [Design]",
+              "DocumentMoniker": "D:\\movie\\view\\receip.cs",
+              "RelativeDocumentMoniker": "view\\receip.cs",
+              "ToolTip": "D:\\movie\\view\\receip.cs [Design]*",
+              "RelativeToolTip": "view\\receip.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:30:49.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "receip.cs",
+              "DocumentMoniker": "D:\\movie\\view\\receip.cs",
+              "RelativeDocumentMoniker": "view\\receip.cs",
+              "ToolTip": "D:\\movie\\view\\receip.cs*",
+              "RelativeToolTip": "view\\receip.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:30:51.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "maintenanceadmin.cs [Design]",
+              "DocumentMoniker": "D:\\movie\\view\\maintenanceadmin.cs",
+              "RelativeDocumentMoniker": "view\\maintenanceadmin.cs",
+              "ToolTip": "D:\\movie\\view\\maintenanceadmin.cs [Design]",
+              "RelativeToolTip": "view\\maintenanceadmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:44:54.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\movie\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "D:\\movie\\view\\Form1.cs",
+              "RelativeToolTip": "view\\Form1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:44:44.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\movie\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "D:\\movie\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:44:43.565Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dashboardform.cs",
+              "DocumentMoniker": "D:\\movie\\view\\dashboardform.cs",
+              "RelativeDocumentMoniker": "view\\dashboardform.cs",
+              "ToolTip": "D:\\movie\\view\\dashboardform.cs",
+              "RelativeToolTip": "view\\dashboardform.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:44:30.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "maintenancestaff.cs [Design]",
+              "DocumentMoniker": "D:\\movie\\view\\maintenancestaff.cs",
+              "RelativeDocumentMoniker": "view\\maintenancestaff.cs",
+              "ToolTip": "D:\\movie\\view\\maintenancestaff.cs [Design]*",
+              "RelativeToolTip": "view\\maintenancestaff.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:56:13.501Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "maintenancestaff.cs",
+              "DocumentMoniker": "D:\\movie\\view\\maintenancestaff.cs",
+              "RelativeDocumentMoniker": "view\\maintenancestaff.cs",
+              "ToolTip": "D:\\movie\\view\\maintenancestaff.cs*",
+              "RelativeToolTip": "view\\maintenancestaff.cs*",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:31:10.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dashboardform.cs [Design]",
+              "DocumentMoniker": "D:\\movie\\view\\dashboardform.cs",
+              "RelativeDocumentMoniker": "view\\dashboardform.cs",
+              "ToolTip": "D:\\movie\\view\\dashboardform.cs [Design]",
+              "RelativeToolTip": "view\\dashboardform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:44:29.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "buyticket.cs",
+              "DocumentMoniker": "D:\\movie\\view\\buyticket.cs",
+              "RelativeDocumentMoniker": "view\\buyticket.cs",
+              "ToolTip": "D:\\movie\\view\\buyticket.cs",
+              "RelativeToolTip": "view\\buyticket.cs",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:23:13.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "buyticket.cs [Design]",
+              "DocumentMoniker": "D:\\movie\\view\\buyticket.cs",
+              "RelativeDocumentMoniker": "view\\buyticket.cs",
+              "ToolTip": "D:\\movie\\view\\buyticket.cs [Design]",
+              "RelativeToolTip": "view\\buyticket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:23:10.078Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "adminform.cs",
+              "DocumentMoniker": "D:\\movie\\view\\adminform.cs",
+              "RelativeDocumentMoniker": "view\\adminform.cs",
+              "ToolTip": "D:\\movie\\view\\adminform.cs",
+              "RelativeToolTip": "view\\adminform.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:44:07.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "adminform.cs [Design]",
+              "DocumentMoniker": "D:\\movie\\view\\adminform.cs",
+              "RelativeDocumentMoniker": "view\\adminform.cs",
+              "ToolTip": "D:\\movie\\view\\adminform.cs [Design]",
+              "RelativeToolTip": "view\\adminform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:44:05.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "D:\\movie\\data\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "data\\DatabaseConfig.cs",
+              "ToolTip": "D:\\movie\\data\\DatabaseConfig.cs",
+              "RelativeToolTip": "data\\DatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:42:16.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
